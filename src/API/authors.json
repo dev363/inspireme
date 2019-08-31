@@ -1,0 +1,55 @@
+[
+    {
+      "quote": [
+        {
+          "quote":
+            "You can avoid reality, but you cannot avoid the consequences of avoiding reality."
+        },
+        {
+          "quote":
+            "You can avoid reality, but you cannot avoid the consequences of avoiding reality."
+        }
+      ],
+      
+      "id": 1,"author": "Ayn Rand",
+      "category": "Famous"
+    },
+    {
+      "quote": [
+        {
+          "quote":
+            "I can write better than anybody who can write faster, and I can write faster than anybody who can write better."
+        },
+        {
+          "quote":
+            "I can write better than anybody who can write faster, and I can write faster than anybody who can write better."
+        }
+      ],
+      
+      "id": 2,"author": "A. J. Liebling",
+      "category": "Famous"
+    },
+    {
+      "quote": [
+        {
+          "quote": "This book fills a much-needed gap."
+        }
+      ],
+      
+      "id": 3,"author": "Moses Hadas in a review",
+      "category": "Famous"
+    },
+    {
+      "quote": [
+        {
+          "quote": "A mathematician is a device for turning coffee into theorems."
+        },
+        {
+          "quote": "A mathematician is a device for turning coffee into theorems."
+        }
+      ],
+      
+      "id": 4,"author": "Paul Erdos",
+      "category": "Famous"
+    }
+  ]
