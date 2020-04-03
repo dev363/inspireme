@@ -16,6 +16,7 @@ ReactDOM.render(
         <Switch>
             <Route path="/quotes" component={QuoteContainer} />
             <Route path="/quotes2" component={QuoteContainer} />
+    <Route path="/quotes3" component={QuoteContainer} />
             <Route exact path="/authors" component={Authors} />
             <Route path="/authors/:id" component={AuthorsDetails} />
         </Switch>
