@@ -17,6 +17,7 @@ ReactDOM.render(
             <Route path="/quotes" component={QuoteContainer} />
             <Route exact path="/authors" component={Authors} />
             <Route path="/authors/:id" component={AuthorsDetails} />
+    <Route exact path="/authors" component={Authors} />
         </Switch>
     </BrowserRouter>, document.getElementById('root'));
 
